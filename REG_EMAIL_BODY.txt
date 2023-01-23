@@ -1,0 +1,21 @@
+Hi ${FNAME}${LNAME}, <br/>
+ <br/>
+ 
+Welcome to Mahesh Java , your Registration is almost completed. <br/>
+ <br/>
+  
+Please unlock your account using below details.  <br/>
+  
+<br/>
+  
+Temporary pwd : ${TEMP_PWD}  <br/>
+  
+  
+  
+<a href="http://localhost:4200/inlock?email=${EMAIL}"> Click here to unlock </a>  <br/>
+<br/>
+   
+Thanks, <br/>
+   
+Mahesh  <br/>
+<br/> 
